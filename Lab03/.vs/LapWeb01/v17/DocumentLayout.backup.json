@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\Web advanced\\Web\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\migrations\\20251204093721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\migrations\\20251204093721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\migrations\\lapweb01contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\migrations\\lapweb01contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|e:\\study\\web advanced\\web\\lab03\\lapweb01\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64877FE7-6998-466B-AE3D-BD3D41B68023}|LapWeb01\\LapWeb01.csproj|solutionrelative:lapweb01\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\appsettings.json",
+              "RelativeDocumentMoniker": "LapWeb01\\appsettings.json",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\appsettings.json",
+              "RelativeToolTip": "LapWeb01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T10:21:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:09:07.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:08:11.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:05:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:00:00.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251204093721_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Migrations\\20251204093721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Migrations\\20251204093721_InitialCreate.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Migrations\\20251204093721_InitialCreate.cs",
+              "RelativeToolTip": "LapWeb01\\Migrations\\20251204093721_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:37:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "LapWeb01\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:35:54.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:07:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:29:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Models\\Movie.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Models\\Movie.cs",
+              "RelativeToolTip": "LapWeb01\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:38:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Models\\SeedData.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Models\\SeedData.cs",
+              "RelativeToolTip": "LapWeb01\\Models\\SeedData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:42:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Program.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Program.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Program.cs",
+              "RelativeToolTip": "LapWeb01\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:30:37.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LapWeb01ContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Migrations\\LapWeb01ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Migrations\\LapWeb01ContextModelSnapshot.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Migrations\\LapWeb01ContextModelSnapshot.cs",
+              "RelativeToolTip": "LapWeb01\\Migrations\\LapWeb01ContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:37:27.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:45:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LapWeb01\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:23:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LapWeb01\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:14:46.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "LapWeb01\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:35:40.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LapWeb01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:26:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LapWeb01\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LapWeb01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:26:10.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapWeb01\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\Study\\Web advanced\\Web\\Lab03\\LapWeb01\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LapWeb01\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:14:48.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
