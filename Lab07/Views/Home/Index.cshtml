@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="p-4 mb-4 bg-light rounded-3">
+    <div class="container-fluid py-2">
+        <h1 class="display-6">Contoso University</h1>
+        <p class="lead mb-0">Lab07: ASP.NET Core MVC + EF Core (Students, Search, Sorting, Paging, About report)</p>
+    </div>
+</div>
+
+<div class="row g-3">
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Students</h5>
+                <p class="card-text">CRUD + Search + Sorting + Paging</p>
+                <a class="btn btn-primary" asp-controller="Students" asp-action="Index">Open</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">About</h5>
+                <p class="card-text">Report: Students grouped by EnrollmentDate</p>
+                <a class="btn btn-primary" asp-controller="Home" asp-action="About">Open</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">Courses / Instructors / Departments</h5>
+                <p class="card-text">Menu placeholders (để tránh 404)</p>
+            </div>
+        </div>
+    </div>
+</div>
